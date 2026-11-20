@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Generated keys — never commit a private key
+keys/
+*.key
+*.key.pub
+
+# Test artifacts
+*.mm.json
